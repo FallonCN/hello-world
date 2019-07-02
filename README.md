@@ -1,4 +1,3 @@
-# hello-world
+# Background
 
-Hi, everyone
-bye
+A single background generator
