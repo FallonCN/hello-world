@@ -1,3 +1,3 @@
 # Background
 
-A single background generator
+A simple background generator for fun
